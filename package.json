@@ -1,0 +1,22 @@
+{
+  "name": "koa-stream-sample",
+  "version": "1.0.0",
+  "description": "koa streaming sample",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib"
+  },
+  "keywords": [],
+  "author": "Joel Chen",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jchip/koa-stream-sample.git"
+  },
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-route": "^3.2.0",
+    "munchy": "^1.0.4"
+  },
+  "private": true
+}
